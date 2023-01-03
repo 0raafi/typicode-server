@@ -1,7 +1,49 @@
 {
   "products": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "name": "DAYLITE CINCH",
+      "price": 599000,
+      "category_name": "Everyday",
+      "attribute_type": "color",
+      "scores": [
+        3,
+        4,
+        5
+      ],
+      "pictures": [
+        "https://i.postimg.cc/zXTvRffs/daylitecinch-s21-body1-cosmicred.jpg",
+        "https://i.postimg.cc/PfpPTynr/daylitecinch-s21-body2-black.jpg"
+      ],
+      "variants": [
+        {
+          "id": 1,
+          "attribute_value": "WAVE BLUE",
+          "color_code": "",
+          "pictures": [
+            "https://i.postimg.cc/qRgHc1xt/daylitecinch-s21-side-waveblue.jpg",
+            "https://i.postimg.cc/Df9mZG7Q/daylitecinch-s21-sideback-waveblue.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "attribute_value": "COSMIC RED",
+          "color_code": "",
+          "pictures": [
+            "https://i.postimg.cc/cHjyFfFF/daylitecinch-s21-side-cosmicred.jpg",
+            "https://i.postimg.cc/d05KTbrP/daylitecinch-s21-sideback-cosmicred.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "attribute_value": "BLACK",
+          "color_code": "",
+          "pictures": [
+            "https://i.postimg.cc/6TxsXtJR/daylitecinch-s21-side-black.jpg",
+            "https://i.postimg.cc/kGbrzDZq/daylitecinch-s21-sideback-black.jpg"
+          ]
+        }
+      ]
+    }
   ]
 }
