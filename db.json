@@ -49,7 +49,7 @@
       "id": 2,
       "name": "DAYLITE CINCH 2",
       "price": 599000,
-      "category_name": "Everyday",
+      "category_name": "Hiking",
       "attribute_type": "color",
       "scores": [
         3,
@@ -139,7 +139,7 @@
       "id": 4,
       "name": "DAYLITE CINCH 4",
       "price": 599000,
-      "category_name": "Everyday",
+      "category_name": "Mountain Biking",
       "attribute_type": "color",
       "scores": [
         3,
