@@ -19,7 +19,7 @@
         {
           "id": 1,
           "attribute_value": "WAVE BLUE",
-          "color_code": "",
+          "color_code": "#384c67",
           "pictures": [
             "https://i.postimg.cc/qRgHc1xt/daylitecinch-s21-side-waveblue.jpg",
             "https://i.postimg.cc/Df9mZG7Q/daylitecinch-s21-sideback-waveblue.jpg"
@@ -28,7 +28,7 @@
         {
           "id": 2,
           "attribute_value": "COSMIC RED",
-          "color_code": "",
+          "color_code": "#9b1b30",
           "pictures": [
             "https://i.postimg.cc/cHjyFfFF/daylitecinch-s21-side-cosmicred.jpg",
             "https://i.postimg.cc/d05KTbrP/daylitecinch-s21-sideback-cosmicred.jpg"
@@ -37,7 +37,7 @@
         {
           "id": 3,
           "attribute_value": "BLACK",
-          "color_code": "",
+          "color_code": "#000000",
           "pictures": [
             "https://i.postimg.cc/6TxsXtJR/daylitecinch-s21-side-black.jpg",
             "https://i.postimg.cc/kGbrzDZq/daylitecinch-s21-sideback-black.jpg"
