@@ -4,7 +4,7 @@
       "id": 1,
       "name": "HEATTECH Syal Motif",
       "price": 599000,
-      "category_name": "AKSESORIS",
+      "category_name": "ACCESSORIES",
       "attribute_type": "color",
       "scores": [
         3,
@@ -34,6 +34,45 @@
           "color_code": "#2d3c39",
           "pictures": [
             "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451588/item/goods_58_451588.jpg?width=1600&impolicy=quality_75"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "UV Protection Twill Cap (Washed)",
+      "price": 299000,
+      "category_name": "ACCESSORIES",
+      "attribute_type": "color",
+      "scores": [
+        3,
+        4,
+        5
+      ],
+      "pictures": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub3.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub4.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub15.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451588/sub/goods_451588_sub17.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub17.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub18.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/sub/goods_458047_sub19.jpg?width=1600&impolicy=quality_75"
+      ],
+      "variants": [
+        {
+          "id": 21,
+          "attribute_value": "Green",
+          "color_code": "#146442",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/item/goods_54_458047.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 22,
+          "attribute_value": "Blue",
+          "color_code": "#1a488f",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458047/item/goods_66_458047.jpg?width=1600&impolicy=quality_75"
           ]
         }
       ]
