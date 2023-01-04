@@ -76,6 +76,95 @@
           ]
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Cotton Ribbed Beanie",
+      "price": 149000,
+      "category_name": "ACCESSORIES",
+      "attribute_type": "color",
+      "scores": [
+        3,
+        4,
+        5
+      ],
+      "pictures": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub1.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub2.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub3.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub17.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub23.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub24.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub25.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub26.jpg?width=1600&impolicy=quality_75",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/sub/goods_454972_sub27.jpg?width=1600&impolicy=quality_75"
+      ],
+      "variants": [
+        {
+          "id": 31,
+          "attribute_value": "OFF WHITE",
+          "color_code": "#f3f0e9",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_01_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 32,
+          "attribute_value": "Gray",
+          "color_code": "#aeaeaf",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_03_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 33,
+          "attribute_value": "Black",
+          "color_code": "#090b0f",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_09_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 34,
+          "attribute_value": "ORANGE",
+          "color_code": "#e86b40",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_23_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 35,
+          "attribute_value": "BEIGE",
+          "color_code": "#d3cfc5",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_32_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 36,
+          "attribute_value": "YELLOW",
+          "color_code": "#f5d679",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_43_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 37,
+          "attribute_value": "GREEN",
+          "color_code": "#6d907c",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_53_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        },
+        {
+          "id": 38,
+          "attribute_value": "BLUE",
+          "color_code": "#5f84a6",
+          "pictures": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454972/item/goods_61_454972.jpg?width=1600&impolicy=quality_75"
+          ]
+        }
+      ]
     }
   ]
 }
